@@ -1,6 +1,6 @@
 ## Hello, I'm Dr. Ayodele Akinwale
 
-Data Analyst & AI Enthusiast | Generative AI Builder | ML Pipeline Builder |Business Intelligence Analyst
+Data Analyst & AI Enthusiast | Generative AI Builder | ML Pipeline Builder | Business Intelligence Analyst
 
 I am a Data & AI professional with a Doctorate in Big Data Analytics, focused on transforming data into actionable business insights. My work combines analytics, storytelling, and problem-solving to help organizations make better decisions. I build practical machine learning and AI projects with a focus on real-world problem solving. I also work on ML Pipeline development, NLP, transformers, and emerging agentic AI systems.
 
@@ -44,14 +44,13 @@ AWS (Cloud & Data)
   Practical experiments with modern GenAI workflows and techniques.
   Chatbot with LEX
 
-  ### 📊 Customer Churn Analysis Dashboard
-
+**Customer Churn Analysis Dashboard**
 - Analyzed 5,000+ customer records to identify churn patterns
 - Discovered that international plan users are **3x more likely to churn**
 - Identified bundled services (voice mail plans) as a key retention driver
 - Built an interactive dashboard using Tableau
 
-👉 [View Project](https://github.com/YOUR-USERNAME/customer-churn-analysis-dashboard)
+👉 [View Project](https://github.com/kayodeleakinwale/customer-churn-analysis-dashboard)
 
 ---
 
