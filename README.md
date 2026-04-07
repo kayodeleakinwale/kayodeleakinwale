@@ -41,11 +41,14 @@ AWS (Cloud & Data)
 
 **Transformer Implementation**
   Built transformer and attention mechanisms to summarize text.
+👉 [View Project](https://github.com/kayodeleakinwale/GenAI_Works)
 
 **Generative AI Experiments**
   production-ready AI projects
   Practical experiments with modern GenAI workflows and techniques.
   Chatbot with LEX
+  
+👉 [View Project](https://github.com/kayodeleakinwale/GenAI_Works)
 
 **Customer Churn Analysis Dashboard**
 - Analyzed 5,000+ customer records to identify churn patterns
@@ -54,6 +57,11 @@ AWS (Cloud & Data)
 - Built an interactive dashboard using Tableau
 
 👉 [View Project](https://github.com/kayodeleakinwale/customer-churn-analysis-dashboard)
+
+
+**Creating a simple customer support agent prototype**
+
+👉 [View Project](https://github.com/kayodeleakinwale/Ay_MLRepo/blob/main/lab-01-create-an-agent.ipynb)
 ---
 
 ## What I'm Focused On Now
