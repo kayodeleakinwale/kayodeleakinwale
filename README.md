@@ -12,8 +12,13 @@ Data Analysis (Excel, SQL, Tableau)
 AI & Machine Learning (Applied, not just theory)
 📈 Business Intelligence & Dashboards
 Turning data into actionable insights
+Sentiment Analysis
+Generative AI
+LLM architectures & AI agents
+Using foundational models to build data models for predictive analysis
+Transformers
+Natural Language Processes
 Languages: Python, R, SQL
-AI/ML: NLP, Transformers, Sentiment Analysis, Generative AI, LLM architectures & AI agents
 
 ## Tools and Technologies
 Excel
