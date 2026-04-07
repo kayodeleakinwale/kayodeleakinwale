@@ -35,7 +35,8 @@ AWS (Cloud & Data)
 
 **Sentiment Analysis Project**
   Built an NLP model to analyze text sentiment and extract insights from unstructured data.
-
+  
+👉 [View Project](https://github.com/kayodeleakinwale/sentiment-analysis-ml-app)
 **Transformer Implementation**
   Built transformer and attention mechanisms to summarize text.
 
@@ -43,8 +44,6 @@ AWS (Cloud & Data)
   production-ready AI projects
   Practical experiments with modern GenAI workflows and techniques.
   Chatbot with LEX
-
-👉 [View Project](https://github.com/kayodeleakinwale/sentiment-analysis-ml-app)
 
 **Customer Churn Analysis Dashboard**
 - Analyzed 5,000+ customer records to identify churn patterns
