@@ -1,17 +1,28 @@
-## Hi there, I'm Ayodele 👋
+## Hello, I'm Dr. Ayodele Akinwale
 
-Data Analyst & AI Enthusiast | Generative AI Builder | ML Pipeline Builder
+Data Analyst & AI Enthusiast | Generative AI Builder | ML Pipeline Builder |Business Intelligence Analyst
 
-I build practical machine learning and AI projects with a focus on real-world problem solving. My work spans ML Pipeline development, NLP, transformers, and emerging agentic AI systems.
+I am a Data & AI professional with a Doctorate in Big Data Analytics, focused on transforming data into actionable business insights. My work combines analytics, storytelling, and problem-solving to help organizations make better decisions. I build practical machine learning and AI projects with a focus on real-world problem solving. I also work on ML Pipeline development, NLP, transformers, and emerging agentic AI systems.
 
 ---
 
 ## Technical Skills
 
+Data Analysis (Excel, SQL, Tableau)
+AI & Machine Learning (Applied, not just theory)
+📈 Business Intelligence & Dashboards
+Turning data into actionable insights
 Languages: Python, R, SQL
 AI/ML: NLP, Transformers, Sentiment Analysis, Generative AI, LLM architectures & AI agents
-Tools:Jupyter, Google Colab, Git, GitHub
-Currently Learning: Advanced Python
+
+## Tools and Technologies
+Excel
+SQL
+R
+SPSS
+Tableau
+Python (basic / applied)
+AWS (Cloud & Data)
 
 ---
 
@@ -28,6 +39,15 @@ Currently Learning: Advanced Python
   Practical experiments with modern GenAI workflows and techniques.
   Chatbot with LEX
 
+  ### 📊 Customer Churn Analysis Dashboard
+
+- Analyzed 5,000+ customer records to identify churn patterns
+- Discovered that international plan users are **3x more likely to churn**
+- Identified bundled services (voice mail plans) as a key retention driver
+- Built an interactive dashboard using Tableau
+
+👉 [View Project](https://github.com/YOUR-USERNAME/customer-churn-analysis-dashboard)
+
 ---
 
 ## What I'm Focused On Now
@@ -35,6 +55,9 @@ Currently Learning: Advanced Python
 * Improving software engineering practices
 * Creating portfolio projects that solve real problems
 * Continued improvement on Agentic AI
+* Building data-driven projects
+* Sharing insights on LinkedIn
+* Exploring real-world business problems with data
 
 ---
 
@@ -42,27 +65,15 @@ Currently Learning: Advanced Python
 
 * LinkedIn: https://www.linkedin.com/in/dr-ayodele-akinwale
 
-* Portfolio: https://www.blogger.com/blog/posts/3373229609395372211?bpli=1&pli= 
+* Portfolio: https://www.blogger.com/blog/posts/3373229609395372211?bpli=1&pli=
+  
+* GitHub: https://github.com/kayodeleakinwale
 
 ---
 ## Pronuns: She/ Her
+
 ---
+## Fun Fact
+I believe data is not just numbers—it’s a tool for better decision-making and real-world impact.
 
 *Always open to collaboration and learning opportunities.*
-
-
-
-<!--
-**kayodeleakinwale/kayodeleakinwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
