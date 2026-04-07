@@ -37,6 +37,8 @@ AWS (Cloud & Data)
   Built an NLP model to analyze text sentiment and extract insights from unstructured data.
   
 👉 [View Project](https://github.com/kayodeleakinwale/sentiment-analysis-ml-app)
+
+
 **Transformer Implementation**
   Built transformer and attention mechanisms to summarize text.
 
