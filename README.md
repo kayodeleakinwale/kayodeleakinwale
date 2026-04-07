@@ -51,7 +51,6 @@ AWS (Cloud & Data)
 - Built an interactive dashboard using Tableau
 
 👉 [View Project](https://github.com/kayodeleakinwale/customer-churn-analysis-dashboard)
-
 ---
 
 ## What I'm Focused On Now
